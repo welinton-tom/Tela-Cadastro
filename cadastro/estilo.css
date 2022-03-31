@@ -1,0 +1,14 @@
+.card{
+    width: 30%;
+    margin: 9% 30% 30% 33%;
+    border-color: rgba(0, 0, 0, 0.1);
+    padding: 3%;
+    background-color: #e9e9f5;
+}
+.Cadastro{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 5px;
+    color: #1e1e69;
+}
